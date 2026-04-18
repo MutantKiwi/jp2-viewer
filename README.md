@@ -162,7 +162,7 @@ python -c "import tifffile; print(tifffile.__version__)"
 
 ## Companion: Explorer thumbnails
 
-Pairs nicely with **[jp2-winthumb](https://github.com/YOUR_USERNAME/jp2-winthumb)** — a Rust WIC decoder that makes Windows Explorer render JP2 thumbnails in folder view and the preview pane.
+Pairs nicely with **[jp2-winthumb](https://github.com/MutantKiwi/jp2-winthumb)** — a Rust WIC decoder that makes Windows Explorer render JP2 thumbnails in folder view and the preview pane.
 
 ## License
 
