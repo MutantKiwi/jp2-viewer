@@ -2,7 +2,8 @@
 
 A lightweight JPEG 2000 viewer for Windows built in Python with PyQt6. Opens aerial JP2 tiles instantly where IrfanView, Global Mapper, and QGIS feel heavy.
 
-![screenshot placeholder — drop a PNG called `screenshot.png` in the repo root for this to render](screenshot.png)
+<img width="759" height="434" alt="image" src="https://github.com/user-attachments/assets/d493e621-5064-44bb-94e7-6981b5f85d59" />
+
 
 ## Why
 
